@@ -11,7 +11,7 @@ logs/
 
 # Specific files #
 ##################
-secret.py
+topsecret.py
 
 # OS generated files #
 ######################

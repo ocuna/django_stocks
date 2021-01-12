@@ -1,4 +1,27 @@
 {%  extends 'base.html'  %}
 {%  block content  %}
 <h1>Home</h1>
+{% if api %}
+	{%  if api_error == "Error..."  %}
+		<p>There was a problem with your ticker symbol, please try again...</p>
+	{%  else  %}
+		<h2>{{  api.symbol  }} | {{  api.companyName  }}</h2>
+		<ul>
+			<li>Price: {{ api.latestPrice }}</li>
+			<li>Previous Close: {{ api.previousClose }}</li>
+			<li>$ Change: {{ api.change }}</li>
+			<li>% Change: {{ api.changePercent }}</li>
+			<li>Market Cap: {{ api.marketCap }}</li>
+			<li>YTD Change: {{ api.ytdChange }}</li>
+			<li>52Wk High: {{ api.week52High }}</li>
+			<li>52WK Low: {{ api.week52Low }}</li>	
+		</ul>
+
+		{%  for key, value in api.items  %}
+			{{ key }}: {{ value }}<br>
+		{% endfor %}
+	{% endif %}
+{% endif %}
+
+{{ api.companyName }}
 {%  endblock  %}
