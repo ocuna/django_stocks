@@ -18,7 +18,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/
 
-
+# yea, you can't see the topsecret.py key file ... it's in git.ignore
 import topsecret
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = topsecret.keys['SECRET_KEY']
