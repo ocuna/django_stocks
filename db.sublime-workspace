@@ -1,0 +1,990 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"active",
+				"active_trail"
+			],
+			[
+				"durpal_get",
+				"drupal_get_path_alias"
+			],
+			[
+				"page",
+				"page_arguments"
+			],
+			[
+				"drupa",
+				"drupal_set_message"
+			],
+			[
+				"field",
+				"field_campus_location"
+			],
+			[
+				"render",
+				"drupal_render"
+			],
+			[
+				"output",
+				"output_html"
+			],
+			[
+				"isa",
+				"is_array"
+			],
+			[
+				"ouput",
+				"output_html"
+			],
+			[
+				"oupu",
+				"outputarray"
+			],
+			[
+				"tid",
+				"tid_array"
+			],
+			[
+				"path",
+				"path_alias_role"
+			],
+			[
+				"return",
+				"return_array"
+			],
+			[
+				"myocu",
+				"myocu_editor"
+			],
+			[
+				"ou",
+				"output_html"
+			],
+			[
+				"search",
+				"search_array"
+			],
+			[
+				"drupal",
+				"drupal_set_message"
+			],
+			[
+				"is",
+				"is_numeric"
+			],
+			[
+				"curent",
+				"current_path"
+			],
+			[
+				"user",
+				"user_obj"
+			],
+			[
+				"role",
+				"role_obj"
+			],
+			[
+				"curer",
+				"current_path"
+			],
+			[
+				"MY",
+				"MYOCU_ROLES_USER_ARRAY"
+			],
+			[
+				"au",
+				"audience_array"
+			],
+			[
+				"this",
+				"this_audience"
+			],
+			[
+				"get_defined",
+				"get_defined_vars"
+			],
+			[
+				"template",
+				"template_trigger"
+			],
+			[
+				"value",
+				"value_group"
+			],
+			[
+				"machine",
+				"machine_name"
+			],
+			[
+				"nam",
+				"machine_name"
+			],
+			[
+				"field_file",
+				"field_file_image_text_format"
+			],
+			[
+				"entity",
+				"entity_id"
+			],
+			[
+				"table",
+				"table_rows"
+			],
+			[
+				"limit",
+				"limit_int"
+			],
+			[
+				"array",
+				"array_column"
+			],
+			[
+				"taxonomy",
+				"taxonomy_index"
+			],
+			[
+				"event",
+				"event_array"
+			],
+			[
+				"currn",
+				"current_path"
+			],
+			[
+				"node",
+				"node_body"
+			],
+			[
+				"dmf",
+				"dmf_formats"
+			],
+			[
+				"dept_",
+				"dept_page_url"
+			],
+			[
+				"tax",
+				"tax_machine_name"
+			],
+			[
+				"arai",
+				"aria-label"
+			],
+			[
+				"the",
+				"the-sidemenu"
+			],
+			[
+				"string",
+				"string_placeholder"
+			],
+			[
+				"set",
+				"setAttribute"
+			],
+			[
+				"prev",
+				"prevObject"
+			],
+			[
+				"Class",
+				"classList"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"get_",
+				"get_defined_vars"
+			],
+			[
+				"url",
+				"url_array"
+			],
+			[
+				"sprit",
+				"spirit-blog"
+			],
+			[
+				"simple",
+				"simple-lightbox"
+			],
+			[
+				"clip",
+				"clip-path\tproperty"
+			],
+			[
+				"class",
+				"classForAPA"
+			],
+			[
+				"time",
+				"timeMachine_obj"
+			],
+			[
+				"tag",
+				"tag_tid_array"
+			],
+			[
+				"start",
+				"start_j"
+			],
+			[
+				"stop",
+				"stop_S"
+			],
+			[
+				"top",
+				"topPosition"
+			],
+			[
+				"promotion",
+				"Promotion_Events_Report"
+			],
+			[
+				"is_in",
+				"is_int"
+			],
+			[
+				"status",
+				"status_in_table"
+			],
+			[
+				"UNIX",
+				"UNIX_TS"
+			],
+			[
+				"archive",
+				"archive_age"
+			],
+			[
+				"cron",
+				"cron_run"
+			],
+			[
+				"promo",
+				"promo_nid"
+			],
+			[
+				"tet",
+				"text-align\tproperty"
+			],
+			[
+				"curre",
+				"current_nid"
+			],
+			[
+				"nod",
+				"node_type"
+			],
+			[
+				"nid",
+				"nid_array"
+			],
+			[
+				"ocu",
+				"ocu_eatdat"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"field_event",
+				"field_event_headline_text"
+			],
+			[
+				"account",
+				"account_number"
+			],
+			[
+				"no",
+				"noscript\tTag"
+			],
+			[
+				"ocu_eat",
+				"ocu_eatdat_timemachine_fakedate"
+			],
+			[
+				"ocu_ea",
+				"ocu_eatdat_timemachine_fakedate"
+			],
+			[
+				"TIME",
+				"TIME_MACHINE_STRING"
+			],
+			[
+				"sring",
+				"string_out"
+			],
+			[
+				"date",
+				"dateObject"
+			],
+			[
+				"pass",
+				"pass_to_block_from_node"
+			],
+			[
+				"something",
+				"something_crazy"
+			],
+			[
+				"rename",
+				"rename_function"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"allOptions",
+				"allOptionsArray"
+			],
+			[
+				"promt",
+				"prompt_id"
+			],
+			[
+				"pri",
+				"prompt_id"
+			],
+			[
+				"prompt",
+				"prompt_id"
+			],
+			[
+				"fields",
+				"fields_with_tid_array"
+			],
+			[
+				"current",
+				"current_path"
+			],
+			[
+				"front",
+				"is_front"
+			],
+			[
+				"get_Def",
+				"get_defined_vars"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"get_define",
+				"get_defined_vars"
+			],
+			[
+				"get_v",
+				"get_defined_vars"
+			],
+			[
+				"target",
+				"targetCalendar"
+			],
+			[
+				"men",
+				"menu_params"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "quotes/admin.py",
+			"settings":
+			{
+				"buffer_size": 88,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "quotes/views.py",
+			"settings":
+			{
+				"buffer_size": 1851,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "quotes/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 1810,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "quotes/forms.py",
+			"settings":
+			{
+				"buffer_size": 138,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "quotes/models.py",
+			"settings":
+			{
+				"buffer_size": 145,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "quotes/urls.py",
+			"settings":
+			{
+				"buffer_size": 288,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "quotes/templates/add_stock.html",
+			"settings":
+			{
+				"buffer_size": 627,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"xdebug",
+				"Set Syntax: Xdebug"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/P/django_stock/stocks",
+		"/C/P/django_stock/stocks/quotes",
+		"/C/P/django_stock/stocks/quotes/templates",
+		"/C/P/django_stock/stocks/stocks"
+	],
+	"file_history":
+	[
+		"/C/P/django_stock/stocks/quotes/templates/nav.html",
+		"/C/P/django_stock/stocks/quotes/models.py",
+		"/D/OCU/Junk/121620_modal___page--event_template.tpl.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_eatdat/templates/page--event_template.tpl.php",
+		"/C/A/ocu-dev/OCU-DEV.sublime-project",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/myocu/myocu.module",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/templates/node/node.tpl.php",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/templates/page/page.tpl.php",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/templates/page/page--node--take.tpl.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/devel/devel.module",
+		"/C/A/ocu-dev/docroot/includes/theme.inc",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ldap/ldap_user/LdapUserConf.class.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ldap/ldap_servers/LdapServer.class.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ldap/ldap_authentication/LdapAuthenticationConf.class.php",
+		"/C/A/ocu-dev/docroot/includes/database/mysql/database.inc",
+		"/C/A/ocu-dev/docroot/includes/bootstrap.inc",
+		"/C/A/ocu-dev/docroot/includes/common.inc",
+		"/C/A/ocu-dev/docroot/includes/menu.inc",
+		"/C/A/ocu-dev/docroot/includes/module.inc",
+		"/C/A/ocu-dev/docroot/modules/comment/comment.module",
+		"/C/A/ocu-dev/docroot/sites/all/modules/nodeblock/nodeblock.module",
+		"/C/A/ocu-dev/docroot/modules/node/node.module",
+		"/C/A/ocu-dev/docroot/index.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/admin/admin.module",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/dmf/includes/block.inc.php",
+		"/C/A/ocu-dev/docroot/modules/system/system.module",
+		"/C/A/ocu-dev/docroot/sites/all/modules/menu_position/menu_position.module",
+		"/C/A/ocu-dev/docroot/modules/block/block.module",
+		"/C/A/ocu-dev/docroot/modules/dashboard/dashboard.module",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_livechat/ocu_livechat.module",
+		"/C/A/SUBLIMETEXT_ocu-dev.sublime-project",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/template.php",
+		"/C/Users/Nathanael/Documents/testproject.sublime-project",
+		"/C/Users/Nathanael/Documents/testproject.sublime-workspace",
+		"/C/A/ocu-dev_project.sublime-project",
+		"/C/A/ocu-dev/ocu-dev.sublime-project",
+		"/C/Users/Nathanael/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/C/Users/Nathanael/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.sublime-settings",
+		"/C/Program Files (x86)/DevDesktop/php7_3_x64/php.ini",
+		"/C/Users/Nathanael/Desktop/php.ini",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/scss/ocu.style.scss",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/scss/ocu/_tables.scss",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/scss/ocu/_form.scss",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/includes/form.inc",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/includes/structure.inc",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/templates/page/page--node--quiz-results.tpl.php",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/assets/js/ocu.script.js",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/scss/ocu/_type--quiz.scss",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/templates/node/node--quiz.tpl.php",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/templates/page/page--quiz.tpl.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_block_acprog_accordion/templates/acprog-accordion-closed.tpl.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_block_acprog_accordion/templates/acprog-accordion.tpl.php",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/scss/ocu/_modal.scss",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/scss/ocu/_individual_pages.scss",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_block_modal/templates/ocu-block-modal.tpl.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_block_accordion/templates/ocu-block-accordion.tpl.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_eatdat/templates/promotion_block.tpl.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_db_update/ocu_db_update.install",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_db_update/ocu_db_update.module",
+		"/C/Users/Nathanael/Downloads/field_config-data.bin",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_block_modal/css/ocu_block_modal.css",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/myocu_editor/myocu_editor.styles.js",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/myocu_editor/ckeditor.styles.js",
+		"/C/A/myocu-dev/docroot/sites/all/modules/ocu_db_update/ocu_db_update.install",
+		"/C/A/myocu-dev/docroot/sites/default/default.settings.php",
+		"/C/A/myocu-prod/docroot/sites/default/settings.php",
+		"/C/A/myocu-dev/docroot/sites/default/settings.php",
+		"/C/A/myocu-test/docroot/sites/default/settings.php",
+		"/C/A/ocu-dev/docroot/sites/default/settings.php",
+		"/C/A/myocu-dev/.gitignore",
+		"/C/A/myocu-dev/docroot/.htaccess",
+		"/C/A/myocu-dev/docroot/modules/taxonomy/taxonomy.module",
+		"/C/A/myocu-dev/docroot/index.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_autopub/ocu_autopub.module",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/scss/ocu/_variables.scss",
+		"/C/A/ocu-dev/docroot/sites/all/themes/assets/css/ocu.style.css",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/dmf/html_templates/dmf-acprog-expand-degree-list.html",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/dmf/html_templates/dmf-acprog-static-list.html",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/dmf/includes/dmf_html_format.inc.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/dmf/html_templates/dmf-acprog-expand-child-list.html",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/dmf/includes/functions.inc.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/dmf/templates/dmf_block.tpl.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_eatdat/includes/functions.inc.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_autopub/ocu_autopub.info",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_eatdat/includes/config.inc.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/revisioning/revisioning_scheduler/revisioning_scheduler.module",
+		"/C/A/ocu-dev/docroot/sites/all/modules/revisioning/revisioning_scheduler/revisioning_scheduler.install",
+		"/C/A/ocu-dev/docroot/sites/all/modules/revisioning/revisioning_scheduler/revisioning_scheduler.info",
+		"/C/A/ocu-dev/docroot/sites/all/modules/revisioning/revisioning_scheduler/README.txt",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_eatdat/ocu_eatdat.module",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_eatdat/ocu_eatdat.info",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/myocu/includes/constants.inc.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/myocu/includes/functions.inc.php",
+		"/C/Users/Nathanael/Desktop/test.html",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/templates/page/page--front.tpl.php",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/scss/ocu/_svg.scss",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/scss/ocu/_fpsp.scss",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/templates/view/views-view--3fp-selling-points--block.tpl.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_lp/scss/ocu_lp/lp_near-me.scss",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_lp/scss/ocu_lp/lp_homeschool.scss",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_lp/scss/ocu_lp.style.scss",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_lp/scss/ocu_lp/quote.scss",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_lp/scss/ocu_lp/lp_resources_style.scss",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_lp/scss/ocu_lp/main_style.scss",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_lp/scss/ocu_lp/lp_trad_page.scss",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_lp/templates/includes/more_resources_homeschool.inc.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_lp/templates/ocu_lp_page_homeschool.tpl.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_lp/scss/ocu_lp/lp_nominate.scss",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_lp/scss/ocu_lp/slate_form_style.scss",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/templates/node/node--faq.tpl.php",
+		"/C/A/blank-7/sites/all/modules/assessment/assessment.info",
+		"/C/A/blank-7/sites/all/modules/assessment/themes/assessment_foundation_access/assessment_foundation_access.info",
+		"/C/A/blank-7/sites/all/modules/assessment/ELMS.rtf",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/templates/includes/menu_myocu.inc.php",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/templates/includes/page_the-sidemenu.inc.php",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/templates/includes/page_not-sidemenu_header.inc.php",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/myocu/templates/myocu-user-dashboard-page.tpl.php",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/scss/ocu/_myocu.scss",
+		"/C/A/blank-7/sites/all/modules/assessment/assessment.install",
+		"/C/Users/Nathanael/AppData/Local/Temp/7zO8BFF8949/assessment.info",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/includes/menu.inc",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/templates/files/file--document.tpl.php",
+		"/C/Users/Nathanael/Desktop/text2.html",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/scss/ocu/_mixins.scss",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/scss/ocu/_file--entity.scss",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_slate_forms/ocu_slate_forms.module",
+		"/C/A/ocu-dev/docroot/sites/all/modules/ocu/ocu_slate_forms/assets/js/ocu_slate_forms_rfi_block_static.js",
+		"/C/A/ocu-dev/docroot/sites/all/themes/ocu/templates/page/page--profile.tpl.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "quotes/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 88,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								88
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "quotes/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1343,
+								1343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 814.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "quotes/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								598,
+								598
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "quotes/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								138,
+								138
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "quotes/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "quotes/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								271,
+								283
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "quotes/templates/add_stock.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								290,
+								296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "db.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Nathanael\\Desktop\\testblock.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
